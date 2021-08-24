@@ -2,17 +2,9 @@
   "build": {
     "content": [
       {
-        "files":[
-          "toc.yml"
-        ]
-      },
-      {
         "files": [
-          "index.md"
-        ]
-      },
-      {
-        "files": [
+          "toc.yml",
+          "index.md",
           "**.md",
           "*.md"
         ],
