@@ -1,7 +1,9 @@
 - name: Recipes
   href: index.md
-- name: Creating a ragdoll
-  href: Creating a ragdoll.md
+- name: Player
+  items:
+    - name: Creating a ragdoll
+      href: Creating a ragdoll.md
 - name: Group
   items: 
     - name: Item 1
