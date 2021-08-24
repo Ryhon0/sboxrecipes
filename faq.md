@@ -1,4 +1,4 @@
 # FAQ
 
-Q: Are the cartoon models placehodlers?
+Q: Are the cartoon models placehodlers?  
 A: No.

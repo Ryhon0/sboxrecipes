@@ -11,6 +11,12 @@
         "exclude": [
           "_site/**"
         ]
+      },
+      {
+        "files":[
+          "recipes/toc.yml",
+          "recipes/*.md"
+        ]
       }
     ],
     "resource": [
