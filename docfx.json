@@ -3,15 +3,10 @@
     "content": [
       {
         "files": [
+          "recipes/**.md",
+          "recipes/**/toc.yml",
           "toc.yml",
-          "index.md",
-          "**.md",
-          "*.md",
-
-          "recipes/toc.yml",
-          "recipes/index.md",
-          "recipes/*.md",
-          "recipes/**.md"
+          "*.md"
         ],
         "exclude": [
           "_site/**"
