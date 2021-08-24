@@ -1,0 +1,22 @@
+{
+  "faq.html": {
+    "href": "faq.html",
+    "title": "FAQ",
+    "keywords": "FAQ Q: Are the cartoon models placehodlers? A: No."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "S&Box Recipes",
+    "keywords": "S&Box Recipes :)"
+  },
+  "Recipes/Creating a ragdoll.html": {
+    "href": "Recipes/Creating a ragdoll.html",
+    "title": "Creating a ragdoll",
+    "keywords": "Creating a ragdoll blah blah blah, Prop, copy material group, copy bones"
+  },
+  "Recipes/index.html": {
+    "href": "Recipes/index.html",
+    "title": "Recipes",
+    "keywords": "Recipes :D"
+  }
+}
