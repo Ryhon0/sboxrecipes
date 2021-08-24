@@ -6,16 +6,15 @@
           "toc.yml",
           "index.md",
           "**.md",
-          "*.md"
+          "*.md",
+
+          "recipes/toc.yml",
+          "recipes/index.md",
+          "recipes/*.md",
+          "recipes/**.md"
         ],
         "exclude": [
           "_site/**"
-        ]
-      },
-      {
-        "files":[
-          "recipes/toc.yml",
-          "recipes/*.md"
         ]
       }
     ],
